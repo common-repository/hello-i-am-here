@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.meetreunion-section{
+    padding: 10px;
+    border: 1px solid gainsboro;
+    margin-top: 20px;
+}
+
+.meetreunion-delete-action {
+    cursor: pointer;
+    color: red;
+}
+
+#domainHelp code {
+    cursor: pointer;
+}

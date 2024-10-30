@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#meetreunion {
+    height: 500px;
+    width: auto;
+}
+
+.error-message {
+    color: red;
+    padding: 5px 10px;
+    border: 2px solid red;
+    margin-top: 10px;
+    text-align: center;
+}

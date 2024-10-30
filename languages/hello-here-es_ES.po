@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"POT-Creation-Date: 2020-09-25 10:22+0000\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"PO-Revision-Date: 2023-07-02 11:00+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: Hello I am here!\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: admin/partials/hello-here-admin-main.php:27
+msgid ""
+"By using this version of \"Hello I am Here\", you are aware that your "
+"meetings will be hosted on third-party servers. Never share confidential "
+"information in your conversations and chats.\n"
+"If you want to use your own server, you can still use this plugin with your "
+"server, but you should hire someone to set it up for you."
+msgstr ""
+"Al usar esta versión de \"Hello I am Here\", eres consciente de que tus "
+"reuniones estarán alojadas en servidores de terceros. Nunca compartas "
+"información confidencial en tus conversaciones y chats.\n"
+"Si quieres usar tu propio servidor, puedes seguir usando este plugin con tu "
+"servidor, pero deberías contratar a alguien para que te lo configure."
+
+#: admin/class-hello-here-admin.php:236
+msgid "Can't get any meeting"
+msgstr "No existen reuniones"
+
+#: admin/partials/hello-here-admin-main.php:88
+#: public/partials/hello-here-show-meet.php:19
+msgid "Code"
+msgstr "Código"
+
+#: public/partials/hello-here-show-meet.php:27
+msgid "Connect"
+msgstr "Conectar"
+
+#: admin/partials/hello-here-admin-main.php:40
+msgid "Create a new Hello I am here! from this page"
+msgstr "Crea una nueva reunión desde esta página"
+
+#. Description of the plugin
+#| msgid "Create intsant meetings with your clients or potential clients."
+msgid "Create instant meetings with your clients or potential clients."
+msgstr "Crea reuniones instantáneas con tus clientes o potenciales clientes."
+
+#: admin/partials/hello-here-admin-main.php:78
+msgid "Create meet!"
+msgstr "Crear reunión!"
+
+#: admin/partials/hello-here-admin-main.php:48
+msgid "Create new meeting"
+msgstr "Crear nueva reunión"
+
+#: admin/partials/hello-here-admin-main.php:90
+msgid "Created at"
+msgstr "Creado el"
+
+#: admin/partials/hello-here-admin-main.php:83
+msgid "Created meetings"
+msgstr "Reuniones creadas"
+
+#: admin/partials/hello-here-admin-main.php:73
+msgid "Date/Time"
+msgstr "Fecha/Hora"
+
+#: admin/partials/hello-here-admin-main.php:98
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/partials/hello-here-admin-main.php:21
+msgid "Disclaimer"
+msgstr "Descargo de responsablidad"
+
+#: admin/partials/hello-here-admin-main.php:56
+#: admin/partials/hello-here-admin-main.php:91
+msgid "Domain"
+msgstr "Dominio"
+
+#: public/partials/hello-here-show-meet.php:37
+msgid "From a mobile device, you'll need to install the Jitsi App"
+msgstr ""
+"Desde un dispositivo móvil, necesitarás instalar la aplicación de Jitsi"
+
+#: public/partials/hello-here-show-meet.php:41
+msgid "Go!"
+msgstr "Go!"
+
+#. Author of the plugin
+msgid "goliver79@gmail.com"
+msgstr "goliver79@gmail.com"
+
+#: public/class-hello-here-public.php:136
+msgid "Guest"
+msgstr "Invitado"
+
+#. Name of the plugin
+#: admin/class-hello-here-admin.php:164
+msgid "Hello I am here!"
+msgstr "Hello I am here!"
+
+#: admin/class-hello-here-admin.php:181 public/class-hello-here-public.php:164
+msgid ""
+"Hello I am here! not created for security reasons (WP \"nonce\"). Refresh "
+"page and try again!"
+msgstr ""
+"Hello I am here! no creado por cuestiones de seguridad (WP 'nonce'). "
+"¡Actualiza la página e inténtalo de nuevo!"
+
+#: admin/partials/hello-here-admin-main.php:64
+msgid ""
+"If you are not using your own Jitsi servers, let \"I have my own domain\" "
+"unchecked."
+msgstr ""
+"Si no estás usando tus propios servidores de Jitsi, deja \"Tengo mi propio "
+"dominio\" desmarcado."
+
+#: admin/partials/hello-here-admin-main.php:41
+msgid ""
+"Insert shortcode <code>[show-meet]</code> in any page. Or create a new page "
+"and insert there."
+msgstr ""
+"Inserta el shortcode <code>[show-meet]</code> en alguna página. O crea una "
+"página nueva e insértalo ahí"
+
+#: public/partials/hello-here-show-meet.php:22
+msgid "Insert your meeting code"
+msgstr "Introduce tu código de reunión"
+
+#: public/partials/hello-here-show-meet.php:14
+msgid "Insert your name (optional)."
+msgstr "Escribe tu nombre (opcional)."
+
+#: admin/partials/hello-here-admin-main.php:35
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: public/class-hello-here-public.php:145
+msgid "Invalid Code"
+msgstr "Código no válido"
+
+#: public/partials/hello-here-show-meet.php:39
+msgid "Link generated. Click Go! to connect."
+msgstr "Enlace generado. Haz click en Go! para conectar."
+
+#: admin/partials/hello-here-admin-main.php:5
+#: public/partials/hello-here-show-meet.php:5
+msgid "Loading"
+msgstr "Cargando"
+
+#: admin/partials/hello-here-admin-main.php:9
+msgid "Make a donation and help the development of the plugin"
+msgstr "Haz una donación y ayuda al desarrollo del plugin"
+
+#: admin/class-hello-here-admin.php:203
+msgid "Meeting created at"
+msgstr "Reunión creada el"
+
+#: admin/class-hello-here-admin.php:218
+msgid "Meeting created!"
+msgstr "¡Reunión creada!"
+
+#: admin/class-hello-here-admin.php:215
+msgid "Meeting not created"
+msgstr "Meeting no creado"
+
+#: public/partials/hello-here-show-meet.php:11
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/partials/hello-here-admin-main.php:70
+msgid "Schedule it"
+msgstr "Programar"
+
+#: admin/partials/hello-here-admin-main.php:89
+msgid "Scheduled Date"
+msgstr "Fecha programada"
+
+#: admin/partials/hello-here-admin-main.php:75
+msgid "Select date and time."
+msgstr "Selecciona fecha y hora"
+
+#: admin/partials/hello-here-admin-main.php:42
+msgid "Send your client/student/friend/... the meeting code and the page url"
+msgstr ""
+"Envía a tu cliente/estudiante/amigo/... el código de reunión y la dirección "
+"de la página donde está el shortcode anterior"
+
+#: admin/partials/hello-here-admin-main.php:53
+msgid "Set meeting title (optional)."
+msgstr "Título de la reunión (opcional)."
+
+#: admin/partials/hello-here-admin-main.php:51
+#: admin/partials/hello-here-admin-main.php:87
+msgid "Title"
+msgstr "Título"
+
+#: admin/partials/hello-here-admin-main.php:43
+msgid "You and your client/studen/friend/... put the meeting code in the page"
+msgstr "Tú y tu cliente/estudiante/amigo/... ponéis el código en la página"

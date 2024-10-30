@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"POT-Creation-Date: 2020-09-25 10:22+0000\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"PO-Revision-Date: 2020-09-25 10:23+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: Hello I am here!\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#. Name of the plugin
+#: admin/class-hello-here-admin.php:144
+msgid "Hello I am here!"
+msgstr "Hello I am here!"
+
+#: admin/class-hello-here-admin.php:161 public/class-hello-here-public.php:157
+msgid ""
+"Hello I am here! not created for security reasons (WP \"nonce\"). Refresh "
+"page and try again!"
+msgstr ""
+"Hello I am here! not created for security reasons (WP \"nonce\"). Refresh "
+"page and try again!"
+
+#: admin/class-hello-here-admin.php:175
+msgid "Meeting created at"
+msgstr "Meeting created at"
+
+#: admin/class-hello-here-admin.php:183
+msgid "Meeting created!"
+msgstr "Meeting created!"
+
+#: admin/class-hello-here-admin.php:197
+msgid "Can't get any meeting"
+msgstr "Can't get any meeting"
+
+#: public/class-hello-here-public.php:139
+msgid "Invalid Code"
+msgstr "Invalid Code"
+
+#: admin/partials/hello-here-admin-main.php:4
+#: public/partials/hello-here-show-meet.php:4
+msgid "Loading"
+msgstr "Loading"
+
+#: admin/partials/hello-here-admin-main.php:8
+msgid "Make a donation and help the development of the plugin"
+msgstr "Make a donation and help the development of the plugin"
+
+#: admin/partials/hello-here-admin-main.php:20
+msgid "Instructions"
+msgstr "Instructions"
+
+#: admin/partials/hello-here-admin-main.php:25
+msgid "Create a new Hello I am here! from this page"
+msgstr "Create a new Hello I am here! from this page"
+
+#: admin/partials/hello-here-admin-main.php:26
+msgid ""
+"Insert shortcode <code>[show-meet]</code> in any page. Or create a new page "
+"and insert there."
+msgstr ""
+"Insert shortcode <code>[show-meet]</code> in any page. Or create a new page "
+"and insert there."
+
+#: admin/partials/hello-here-admin-main.php:27
+msgid "Send your client/student/friend/... the meeting code and the page url"
+msgstr "Send your client/student/friend/... the meeting code and the page url"
+
+#: admin/partials/hello-here-admin-main.php:28
+msgid "You and your client/studen/friend/... put the meeting code in the page"
+msgstr "You and your client/studen/friend/... put the meeting code in the page"
+
+#: admin/partials/hello-here-admin-main.php:33
+msgid "Create new meeting"
+msgstr "Create new meeting"
+
+#: admin/partials/hello-here-admin-main.php:36
+#: admin/partials/hello-here-admin-main.php:67
+msgid "Title"
+msgstr "Title"
+
+#: admin/partials/hello-here-admin-main.php:38
+msgid "Set meeting title (optional)."
+msgstr "Set meeting title (optional)."
+
+#: admin/partials/hello-here-admin-main.php:41
+#: admin/partials/hello-here-admin-main.php:71
+msgid "Domain"
+msgstr "Domain"
+
+#: admin/partials/hello-here-admin-main.php:44
+msgid "If you are not using your own Jitsi servers, set it to "
+msgstr "If you are not using your own Jitsi servers, set it to "
+
+#: admin/partials/hello-here-admin-main.php:45
+msgid "Click to set"
+msgstr "Click to set"
+
+#: admin/partials/hello-here-admin-main.php:50
+msgid "Schedule it"
+msgstr "Schedule it"
+
+#: admin/partials/hello-here-admin-main.php:53
+msgid "Date/Time"
+msgstr "Date/Time"
+
+#: admin/partials/hello-here-admin-main.php:55
+msgid "Select date and time."
+msgstr "Select date and time."
+
+#: admin/partials/hello-here-admin-main.php:58
+msgid "Create meet!"
+msgstr "Create meet!"
+
+#: admin/partials/hello-here-admin-main.php:63
+msgid "Created meetings"
+msgstr "Created meetings"
+
+#: admin/partials/hello-here-admin-main.php:68
+#: public/partials/hello-here-show-meet.php:11
+msgid "Code"
+msgstr "Code"
+
+#: admin/partials/hello-here-admin-main.php:69
+msgid "Scheduled Date"
+msgstr "Scheduled Date"
+
+#: admin/partials/hello-here-admin-main.php:70
+msgid "Created at"
+msgstr "Created at"
+
+#: admin/partials/hello-here-admin-main.php:78
+msgid "Delete"
+msgstr "Delete"
+
+#: public/partials/hello-here-show-meet.php:8
+msgid "Insert code and click 'Connect'"
+msgstr "Insert code and click 'Connect'"
+
+#: public/partials/hello-here-show-meet.php:14
+msgid "Insert your meeting code"
+msgstr "Insert your meeting code"
+
+#: public/partials/hello-here-show-meet.php:19
+msgid "Connect"
+msgstr "Connect"
+
+#: public/partials/hello-here-show-meet.php:29
+msgid "From a mobile device, you'll need to install the Jitsi App"
+msgstr "From a mobile device, you'll need to install the Jitsi App"
+
+#: public/partials/hello-here-show-meet.php:31
+msgid "Link generated. Click Go! to connect."
+msgstr "Link generated. Click Go! to connect."
+
+#: public/partials/hello-here-show-meet.php:33
+msgid "Go!"
+msgstr "Go!"
+
+#. Description of the plugin
+msgid "Create intsant meetings with your clients or potential clients."
+msgstr "Create intsant meetings with your clients or potential clients."
+
+#. Author of the plugin
+msgid "goliver79@gmail.com"
+msgstr "goliver79@gmail.com"
